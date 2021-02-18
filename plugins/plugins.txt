@@ -1,0 +1,15 @@
+ansicolor:latest
+blueocean:latest
+build-failure-analyzer:latest
+build-timeout:latest
+cloudbees-bitbucket-branch-source
+configuration-as-code:latest
+credentials-binding:latest
+git:latest
+github-branch-source:latest
+job-dsl:latest
+matrix-auth:latest
+pipeline-stage-view:latest
+ssh-slaves:latest
+timestamper:latest
+workflow-aggregator:latest
